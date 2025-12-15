@@ -56,4 +56,5 @@ print(f"Your score is: {score}")
 is_raining = False
 if is_raining:
     print("Bring an umbrella!")
-print("Enjoy the sunshine!")
+else:
+    print("Enjoy the sunshine!")
